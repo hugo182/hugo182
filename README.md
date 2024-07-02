@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Hugo</h1>
-<h3 align="center">Soy un apasionado estudiante de informática</h3>
+<h3 align="center">Soy un apasionado estudiante de desarrollo de aplicaciones multiplataforma</h3>
 
 - 💬 Puedes preguntarme sobre **HTML, CSS, JAVA, JAVASCRIPT O MYSQL**
 
